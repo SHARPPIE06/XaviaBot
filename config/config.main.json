@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "100014776301140"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "100014776301140"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
+    "NAME": "Athena AI",
+    "PREFIX": "*",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000"
 }
